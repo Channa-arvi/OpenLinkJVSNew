@@ -1,0 +1,1 @@
+INSERT INTO USER_stldoc_export_config (internal_lentity, file_name_part) VALUES ('BAP DOWNSTREAM LE', 'BAP');INSERT INTO USER_stldoc_export_config (internal_lentity, file_name_part) VALUES ('SMART DOWNSTREAM LE', 'SMT');INSERT INTO USER_stldoc_export_config (internal_lentity, file_name_part) VALUES ('TND DOWNSTREAM LE', 'TND');COMMIT;
